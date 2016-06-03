@@ -15,7 +15,7 @@
     </div>
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
       <ul class="nav navbar-nav">
-        <li><a href="/">首页</a></li>
+        <li><a href="<?php echo U('Index/index');?>">首页</a></li>
         <li><a href="#addProject">添加项目</a></li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -72,5 +72,11 @@
 </div>
 
 </body>
+<script type="text/javascript">
+	addProjectApi = '<?php echo U("Home/RootApi/addProject");?>';
+	delProjectApi = '<?php echo U("Home/RootApi/delProjectId");?>';
+	findProjectApi = '<?php echo U("Home/RootApi/findProject",array("id"=>""));?>';
+
+</script>
 <script type="text/javascript" src="/Public/js/library/jquery.js"></script><script type="text/javascript" src="/Public/js/library/bootstrap.js"></script><script type="text/javascript" src="/Public/js/library/sweetalert.js"></script><script type="text/javascript" src="/Public/js/base/base.js"></script>
 </html>

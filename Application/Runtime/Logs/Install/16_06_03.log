@@ -1,0 +1,860 @@
+[ 2016-06-03T13:07:39+08:00 ] 127.0.0.1 /install.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.525030s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.525030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:07:47+08:00 ] 127.0.0.1 /install.php?s=/Install/step1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+NOTIC: [2] is_dir() expects parameter 1 to be a valid path, array given E:\WWW\webfr\Application\Install\Common\function.php 第 90 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-03T13:08:08+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-03T13:10:17+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:15:32+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:15:35+08:00 ] 127.0.0.1 /install.php?s=/Install/step1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:15:39+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: update E:\WWW\webfr\Application\Runtime\Cache\Install\9ca9def17967eb36173dd85cc5e3c827.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:16:53+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+NOTIC: [8] Undefined index: db_name E:\WWW\webfr\ThinkPHP\Library\Think\Db.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:16:57+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: update E:\WWW\webfr\Application\Runtime\Cache\Install\9ca9def17967eb36173dd85cc5e3c827.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-03T13:17:04+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+NOTIC: [8] Undefined index: db_name E:\WWW\webfr\ThinkPHP\Library\Think\Db.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-03T13:17:06+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: update E:\WWW\webfr\Application\Runtime\Cache\Install\9ca9def17967eb36173dd85cc5e3c827.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-03T13:17:12+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+NOTIC: [8] Undefined index: db_name E:\WWW\webfr\ThinkPHP\Library\Think\Db.class.php 第 68 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-03T13:17:15+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: update E:\WWW\webfr\Application\Runtime\Cache\Install\9ca9def17967eb36173dd85cc5e3c827.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.100006s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.100006s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:17:21+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+NOTIC: [8] Undefined index: db_name E:\WWW\webfr\ThinkPHP\Library\Think\Db.class.php 第 68 行.
+SQL: CREATE DATABASE IF NOT EXISTS `123` DEFAULT CHARACTER SET utf8 [ RunTime:0.5170s ]
+
+[ 2016-06-03T13:17:23+08:00 ] 127.0.0.1 /install.php?s=/Install/step3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+SQL: /*
+
+Navicat MySQL Data Transfer
+
+
+
+Source Server         : webrtcxss
+
+Source Server Version : 50540
+
+Source Host           : localhost:3306
+
+Source Database       : webrtcxss
+
+
+
+Target Server Type    : MYSQL
+
+Target Server Version : 50540
+
+File Encoding         : 65001
+
+
+
+Date: 2016-04-16 19:50:37
+
+*/
+
+
+
+SET FOREIGN_KEY_CHECKS=0 [ RunTime:0.1290s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_cmspath
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_cmspath` [ RunTime:0.2340s ]
+SQL: CREATE TABLE `webrtc_cmspath` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `cms` varchar(20) NOT NULL,
+
+  `path` varchar(200) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8 [ RunTime:0.6070s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_cmsvul
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_cmsvul` [ RunTime:0.0000s ]
+SQL: CREATE TABLE `webrtc_cmsvul` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `cms` varchar(20) NOT NULL,
+
+  `vulinfo` varchar(1000) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.1050s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_existencecmsip
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_existencecmsip` [ RunTime:0.0000s ]
+SQL: CREATE TABLE `webrtc_existencecmsip` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `cms` varchar(20) NOT NULL,
+
+  `inner_ip` varchar(200) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.1380s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_existencevul
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_existencevul` [ RunTime:0.0010s ]
+SQL: CREATE TABLE `webrtc_existencevul` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `cms` varchar(40) NOT NULL,
+
+  `vulip` varchar(20) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.1140s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_ipdatalist
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_ipdatalist` [ RunTime:0.0000s ]
+SQL: CREATE TABLE `webrtc_ipdatalist` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `survival_ip` varchar(200) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.2290s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_project
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_project` [ RunTime:0.0000s ]
+SQL: CREATE TABLE `webrtc_project` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `name` varchar(30) NOT NULL,
+
+  `note` varchar(30) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `stage` int(2) NOT NULL DEFAULT '0',
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.1110s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_survivaliplist
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_survivaliplist` [ RunTime:0.0000s ]
+SQL: CREATE TABLE `webrtc_survivaliplist` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `outside_ip` varchar(20) NOT NULL,
+
+  `survival_ip` varchar(100) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.1200s ]
+NOTIC: [2] Missing argument 2 for write_config(), called in E:\WWW\webfr\Application\Install\Controller\InstallController.class.php on line 129 and defined E:\WWW\webfr\Application\Install\Common\function.php 第 155 行.
+NOTIC: [2] chmod(): No such file or directory E:\WWW\webfr\Application\Install\Common\function.php 第 174 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:17:27+08:00 ] 127.0.0.1 /install.php?s=/Index/complete.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:31:33+08:00 ] 127.0.0.1 /install.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-03T13:31:42+08:00 ] 127.0.0.1 /install.php?s=/Install/step1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.029002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-03T13:31:44+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: update E:\WWW\webfr\Application\Runtime\Cache\Install\9ca9def17967eb36173dd85cc5e3c827.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:32:37+08:00 ] 127.0.0.1 /install.php?s=/Install/step1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:32:39+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: update E:\WWW\webfr\Application\Runtime\Cache\Install\9ca9def17967eb36173dd85cc5e3c827.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:33:46+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: update E:\WWW\webfr\Application\Runtime\Cache\Install\9ca9def17967eb36173dd85cc5e3c827.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-06-03T13:34:05+08:00 ] 127.0.0.1 /install.php?s=/Install/step2.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+NOTIC: [8] Undefined index: db_name E:\WWW\webfr\ThinkPHP\Library\Think\Db.class.php 第 68 行.
+SQL: CREATE DATABASE IF NOT EXISTS `heihei` DEFAULT CHARACTER SET utf8 [ RunTime:0.2900s ]
+
+[ 2016-06-03T13:34:06+08:00 ] 127.0.0.1 /install.php?s=/Install/step3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Install\Controller\InstallController::error() should be compatible with Think\Controller::error($message = '', $jumpUrl = '', $ajax = false) E:\WWW\webfr\Application\Install\Controller\InstallController.class.php 第 149 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+SQL: /*
+
+Navicat MySQL Data Transfer
+
+
+
+Source Server         : webrtcxss
+
+Source Server Version : 50540
+
+Source Host           : localhost:3306
+
+Source Database       : webrtcxss
+
+
+
+Target Server Type    : MYSQL
+
+Target Server Version : 50540
+
+File Encoding         : 65001
+
+
+
+Date: 2016-04-16 19:50:37
+
+*/
+
+
+
+SET FOREIGN_KEY_CHECKS=0 [ RunTime:0.0000s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_cmspath
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_cmspath` [ RunTime:0.0100s ]
+SQL: CREATE TABLE `webrtc_cmspath` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `cms` varchar(20) NOT NULL,
+
+  `path` varchar(200) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM AUTO_INCREMENT=5 DEFAULT CHARSET=utf8 [ RunTime:0.1030s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_cmsvul
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_cmsvul` [ RunTime:0.0000s ]
+SQL: CREATE TABLE `webrtc_cmsvul` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `cms` varchar(20) NOT NULL,
+
+  `vulinfo` varchar(1000) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.2910s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_existencecmsip
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_existencecmsip` [ RunTime:0.0000s ]
+SQL: CREATE TABLE `webrtc_existencecmsip` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `cms` varchar(20) NOT NULL,
+
+  `inner_ip` varchar(200) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.0860s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_existencevul
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_existencevul` [ RunTime:0.0010s ]
+SQL: CREATE TABLE `webrtc_existencevul` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `cms` varchar(40) NOT NULL,
+
+  `vulip` varchar(20) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.0700s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_ipdatalist
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_ipdatalist` [ RunTime:0.0000s ]
+SQL: CREATE TABLE `webrtc_ipdatalist` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `survival_ip` varchar(200) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.0600s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_project
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_project` [ RunTime:0.0010s ]
+SQL: CREATE TABLE `webrtc_project` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `name` varchar(30) NOT NULL,
+
+  `note` varchar(30) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `stage` int(2) NOT NULL DEFAULT '0',
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.0580s ]
+SQL: -- ----------------------------
+
+-- Table structure for webrtc_survivaliplist
+
+-- ----------------------------
+
+DROP TABLE IF EXISTS `webrtc_survivaliplist` [ RunTime:0.0020s ]
+SQL: CREATE TABLE `webrtc_survivaliplist` (
+
+  `id` int(20) NOT NULL AUTO_INCREMENT,
+
+  `outside_ip` varchar(20) NOT NULL,
+
+  `survival_ip` varchar(100) NOT NULL,
+
+  `onlystring` varchar(40) NOT NULL,
+
+  `create_time` timestamp NOT NULL DEFAULT '0000-00-00 00:00:00' ON UPDATE CURRENT_TIMESTAMP,
+
+  PRIMARY KEY (`id`)
+
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 [ RunTime:0.0710s ]
+NOTIC: [2] Missing argument 2 for write_config(), called in E:\WWW\webfr\Application\Install\Controller\InstallController.class.php on line 129 and defined E:\WWW\webfr\Application\Install\Common\function.php 第 155 行.
+NOTIC: [2] chmod(): No such file or directory E:\WWW\webfr\Application\Install\Common\function.php 第 174 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-06-03T13:34:09+08:00 ] 127.0.0.1 /install.php?s=/Index/complete.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

